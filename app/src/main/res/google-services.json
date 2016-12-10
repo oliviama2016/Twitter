@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "391358831115",
+    "firebase_url": "https://twitter-97972.firebaseio.com",
+    "project_id": "twitter-97972",
+    "storage_bucket": "twitter-97972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391358831115:android:338481cc2d4ff801",
+        "android_client_info": {
+          "package_name": "com.app.oliviama.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391358831115-uen24hu4hrle4tq6trr2bsh3b0ko3end.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNgfvQkQVWoTdVw2A2NKK0ZatyIeag6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
